@@ -1,0 +1,13 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 0C41-E7DC
+
+ Directory of C:\Users\poona\Desktop\JavaProgramjenkins
+
+21-12-2023  12:51    <DIR>          .
+21-12-2023  12:05    <DIR>          ..
+21-12-2023  12:33               896 Hello.class
+21-12-2023  12:14               162 Hello.java
+21-12-2023  12:51                 0 in.txt
+21-12-2023  12:49    <DIR>          index.html
+               3 File(s)          1,058 bytes
+               3 Dir(s)  441,027,112,960 bytes free
